@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Excercise - message timer</string>
+    <string name="notification_title">Message timer</string>
+    <string name="button_set">Set timer</string>
+    <string name="button_cancel">Cancel timer</string>
+    <string name="default_message">Timer has expired</string>
+</resources>
